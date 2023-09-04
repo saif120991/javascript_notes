@@ -6,7 +6,7 @@
 
 //javascript forward compatible nhi hai matlab 20 saal purane browser pe aaj ka code nhi chalega.
 
-//javascript ke standards means rules features ye sab ECMA decide karti hai , TC-39 ek team hai jo decide karti hai kya features
+//javascript ke standards means rules features ye sab ECMA decide karti hai , TC-39 ek team hai jo decide karti hai kya features lane hai kya changes karne hai ecma decide karti hai , aur isse sare browser ko manna padta hai 
 
 //javascript ka trademark oracle ke pass hai isliye ECMA ne isse ECMA script kaha ,dono sahi hai chahe hum ecma script bole ya javascript
 
