@@ -35,7 +35,7 @@
 
 //-----------------rules for naming variable in javascript----------------------
 
-//you can start we a number
+//you can start with a number
 //ex:-
 //1value (invalid)
 //value1(valid)
