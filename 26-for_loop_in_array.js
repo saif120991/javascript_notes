@@ -6,7 +6,7 @@
 // }
 
 //most important property of array is length
-//array ki length kitnni  hai  is tarike se pata chalega
+//array ki length kitni  hai  is tarike se pata chalega
 
 // console.log(fruits.length); 
 
@@ -41,7 +41,7 @@
 // console.log(fruits2);
 
 
-//--------practice----------------
+//--------------practice----------------
 // let two = [2,4,6,8,10,12,14,16,18,20];
 // let three = [];
 
@@ -55,3 +55,4 @@
 
 // let five = [...four,22,34];
 // console.log(five);
+

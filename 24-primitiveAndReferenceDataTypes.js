@@ -31,7 +31,7 @@
 // console.log(array1);
 // console.log(array2);
 
-//reference data type me variable heap memory me store hota hai uska pointer sirf stack me hota hai us pointer ke pass heap memory ka address hota hai janha varible store hai
+//reference data type me variable heap memory me store hota hai uska pointer sirf stack me hota hai us pointer ke pass heap memory ka address hota hai janha variable store hai
 
 //for ex:- array1 , array2 dono ka pointer alag alag hoga ,  array1 ke pointer ke pass heap memory ki  location ka address hoga janha wo store hai ,array2 ke pointer ke pass bhi heap memory me janha array1 store hai usi ki  location ka address hai so ,means address same hota dono ke pass 
 

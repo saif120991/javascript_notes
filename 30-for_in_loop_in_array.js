@@ -6,7 +6,7 @@
 //     console.log(fruits[index]);
 // }
 
-//for of loop we generally use to print  arrray
+//for of loop we generally use to print  array
 
 // for(let fruit of fruits){
 //     console.log(fruit);
